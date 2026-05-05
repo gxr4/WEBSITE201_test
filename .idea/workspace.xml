@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="760f651e-b59b-466f-b3a4-1f9724b827fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/codelink/activity1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/activity2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/activity3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codelink/activity4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WEBSITE201.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-    </list>
+    <list default="true" id="760f651e-b59b-466f-b3a4-1f9724b827fd" name="Changes" comment="new website" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
@@ -81,9 +71,30 @@
       <updated>1777988100753</updated>
       <workItem from="1777988101759" duration="5570000" />
     </task>
+    <task id="LOCAL-00001" summary="new website">
+      <option name="closed" value="true" />
+      <created>1777995002872</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777995002872</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new website">
+      <option name="closed" value="true" />
+      <created>1777995010661</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777995010661</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new website" />
+    <option name="LAST_COMMIT_MESSAGE" value="new website" />
   </component>
 </project>
